@@ -111,6 +111,7 @@ hollydayz/
 
 ## Documentation
 
+- 🗂️ **[Feature List](./docs/FEATURES.md)** - Overview of all application features
 - 📘 **[Database Setup Guide](./docs/DATABASE_SETUP.md)** - Complete database installation
 - 🔐 **[Security Guide](./docs/SUPABASE_SECURITY.md)** - Understanding Supabase security model
 
