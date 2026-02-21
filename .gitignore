@@ -31,3 +31,4 @@ dist-ssr
 
 # Copilot workspace (local only)
 .copilot/
+.vercel
