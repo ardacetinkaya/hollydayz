@@ -19,7 +19,7 @@ The main screen shows a **2-week rolling calendar** so you can see your team's a
 
 Employees can submit time-off requests directly from the calendar.
 
-- Request **vacation**, **sick leave**, or **personal days**
+- Request **vacation** days (sick leave and personal days are planned for a future release)
 - Pick a single day or a range of consecutive days
 - Add an optional note with your request
 - Track the status of your own requests (pending / approved / rejected)
