@@ -9,7 +9,7 @@ A modern React-based team holiday management system with Microsoft EntraID authe
 🗓️ **Holiday Management** - Admin interface for public holidays  
 👥 **Time-Off Requests** - Submit, track, and approve vacation days  
 📊 **Admin Dashboard** - Manage users, holidays, and approvals  
-🎨 **Clean UI** - SwedQ-inspired color palette  
+🎨 **Clean UI** - Simple and modern color palette  
 📱 **Responsive Design** - Works on all devices  
 
 ## Tech Stack
