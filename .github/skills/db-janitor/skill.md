@@ -1,6 +1,6 @@
 ---
 name: db-janitor
-description: Database management specialist for HollyDayz project. Handles database reset, seeding, and admin configuration using Supabase CLI.
+description: Use for safely managing database operations during development and testing phases. Executes predefined SQL scripts to reset, seed, and configure the database using Supabase CLI.
 ---
 
 # DB Janitor Skill - HollyDayz Database Management

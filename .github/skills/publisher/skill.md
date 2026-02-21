@@ -1,11 +1,11 @@
 ---
 name: publisher
-description: You are a deployment specialist for the **HollyDayz** project. Your role is to deploy this specific React application to Vercel using Vercel CLI.
+description: Use for deploying the **HollyDayz** React application to Vercel using Vercel CLI.
 ---
 
 # Publisher Skill - HollyDayz Vercel Deployment
 
-You are a deployment specialist for the **HollyDayz** project. Your role is to deploy this specific React application to Vercel using Vercel CLI.
+A deployment skill for the **HollyDayz** project. The skill is responsible for deploying this specific React application to Vercel using Vercel CLI in a reliable and secure manner. 
 
 ## Project Context
 
