@@ -2,6 +2,19 @@
 
 A modern React-based team holiday management system with Microsoft EntraID authentication and Supabase backend.
 
+## 🤖 Built with AI Agents & Agentic Development
+
+> **This repository was created entirely using AI agents and skills-based development workflow.**
+
+This project demonstrates a modern **agentic development approach** where specialized AI agents collaborated to build the entire application:
+
+- **🎨 SPA Agent**: Created the React application structure, components, and UI/UX
+- **🗄️ DB Janitor Agent**: Designed and managed the Supabase database schema, RLS policies, and seed data
+- **🚀 Publisher Agent**: Handled Vercel deployment, environment configuration, and production setup
+- **📝 Tech Writer Agent**: Produced comprehensive documentation and guides
+
+The development flow showcased AI-driven collaboration with each agent handling specific domains of expertise, from database architecture to deployment pipelines. This demonstrates how **agentic workflows** can build complete, production-ready applications through specialized AI collaboration.
+
 ## Features
 
 ✨ **2-Week Calendar View** - See team availability at a glance  
