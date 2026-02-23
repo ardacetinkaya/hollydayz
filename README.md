@@ -15,6 +15,8 @@ This project demonstrates a modern **agentic development approach** where specia
 
 The development flow showcased AI-driven collaboration with each agent handling specific domains of expertise, from database architecture to deployment pipelines. This demonstrates how **agentic workflows** can build complete, production-ready applications through specialized AI collaboration.
 
+<p align="center"><img src="docs/screenshots/HollyDayz.png" alt="drawing" width="500"/></p>
+
 ## Features
 
 ✨ **2-Week Calendar View** - See team availability at a glance  

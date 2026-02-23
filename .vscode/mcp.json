@@ -1,9 +1,31 @@
 {
 	"servers": {
-		"Vercel": {
+		"vercel": {
 			"url": "https://mcp.vercel.com",
 			"type": "http"
+		},
+		"context7": {
+			"url": "https://mcp.context7.com/mcp",
+			"type": "http",
+			"headers": {
+				"CONTEXT7_API_KEY": "${input:CONTEXT7_API_KEY}"
+			}
+		},
+		"playwright": {
+			"command": "npx",
+			"args": [
+				"@playwright/mcp@latest",
+				"--browser",
+				"msedge"
+			]
 		}
 	},
-	"inputs": []
+	"inputs": [
+		{
+			"id": "CONTEXT7_API_KEY",
+			"type": "promptString",
+			"description": "API key for authentication",
+			"password": true
+		}
+	],
 }
