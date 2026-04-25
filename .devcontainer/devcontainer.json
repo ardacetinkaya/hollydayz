@@ -3,10 +3,12 @@
   "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
 
   "features": {
-    "ghcr.io/devcontainers/features/github-cli:1": {}
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/devcontainers/features/aws-cli:1": {},
+    "ghcr.io/devcontainers/features/azure-cli:1": {}
   },
 
-  "postCreateCommand": "npm install && npm install -g vercel && curl -fsSL https://supabase.com/install.sh | bash",
+  "postCreateCommand": "npm install && npm install -g vercel && curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh | bash",
 
   "forwardPorts": [5173, 54321, 54322, 54323, 54324],
   "portsAttributes": {
